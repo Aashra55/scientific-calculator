@@ -1,0 +1,18 @@
+{
+  "name": "scientific-calculator",
+  "version": "1.0.0",
+  "description": "A simple scientific calculator using typescript and node.js with features of addition, subtraction, division, multiplication, modulus, exponentiation and square root",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashra Saleem",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
